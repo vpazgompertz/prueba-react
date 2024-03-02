@@ -1,0 +1,57 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  background-color: #ffffff;
+  margin-top: 2rem;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3); 
+}
+
+body{
+  background-color: rgb(240, 252, 255);
+}
+
+h1{
+ color: #2d2d2d;
+ text-align: left;
+ font-size: 30px;
+ font-weight: 500;
+}
+
+.table-container{
+ margin-top: 1rem;
+ background-color: #fff;
+}
+
+.table {
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); 
+}
+
+.table th,
+.table td {
+  border: 1px solid #cecdcd;
+  padding: 8px;
+}
+
+.input-container{
+  width: 100%;
+  padding: 0.3rem;
+  border: 1px solid #ffffff;
+  padding-left: 1rem;
+  box-shadow: 0 4px 6px rgba(66, 66, 66, 0.1); 
+  margin-top: 1rem;
+}
+
+.table th{
+  background-color: #3c6ddf;
+  color: #ffffff;
+}
+
+p{
+  margin-top: 2rem;
+  font-size: 12px;
+  font-weight: 300;
+  margin-bottom: 0;
+}
