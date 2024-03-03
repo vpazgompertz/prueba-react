@@ -11,7 +11,7 @@ function App() {
       <h1>Feriados de Chile</h1>
       <Buscador onSearch={setSearch} />
       <MiApi search={search} />
-      <footer><p>Búsqueda de feriados de Chile 2024. Valentina Paz</p></footer>
+      <footer><p>Aplicación web para la búsqueda de feriados de Chile 2024. Valentina Paz</p></footer>
     </>
   );
 }
